@@ -1,32 +1,4 @@
-# --- Archivos y carpetas de entorno virtual ---
-venv/
-.env
-*.env
-
-# --- Archivos temporales de Python ---
 __pycache__/
-*.py[cod]
-*$py.class
-
-# --- Archivos de configuración del sistema ---
+*.pyc
+.env
 .DS_Store
-Thumbs.db
-
-# --- Archivos de logs ---
-*.log
-
-# --- Archivos de cache o compilación ---
-*.egg-info/
-*.egg
-.eggs/
-build/
-dist/
-
-# --- Archivos de configuración local ---
-.idea/
-.vscode/
-
-# --- Otros archivos sensibles ---
-*.pem
-*.key
-*.crt
