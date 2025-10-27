@@ -4,6 +4,7 @@
 ## Autoras:
 **Salomé Serna**  
 **Maria Clara**
+
 Usuario Docker Hub: **saloserna**
 
 ---
@@ -84,4 +85,5 @@ La aplicación consume imágenes almacenadas en un bucket **Amazon S3** (`t2-pok
 >  Proyecto **completamente funcional y operativo**.  
 > Link Docker Hub: [https://hub.docker.com/r/saloserna/pokeneas](https://hub.docker.com/r/saloserna/pokeneas)  
 > IP pública: `http://3.91.7.187/ui` --> usar este enlace para ver las imagenes
+
 
